@@ -1,0 +1,31 @@
+idan0610
+
+
+
+
+=============================
+=      File description     =
+=============================
+ProductType.java - implements the ProductType class
+Customer.java - implements the Customer class
+Store.java - implements the Store class
+
+
+=============================
+=          Design           =
+=============================
+I implemented all 3 class as requested by their API. I decided not to make use
+of the methods of the class Store in any method to reduce a little the time
+complexity of the methods. 
+
+
+=============================
+=  Implementation details   =
+=============================
+None
+
+
+=============================
+=    Answers to questions   =
+=============================
+None
